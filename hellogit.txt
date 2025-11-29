@@ -2,4 +2,3 @@ hello again
 hi
 byd
 remote update
-remote up1
